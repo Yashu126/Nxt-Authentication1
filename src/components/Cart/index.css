@@ -1,0 +1,19 @@
+.cart-con {
+  height: 100vh;
+}
+.cart-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+.cart-img {
+  width: 60%;
+}
+
+.cart-heading {
+  font-size: 50px;
+  font-family: Roboto;
+}
