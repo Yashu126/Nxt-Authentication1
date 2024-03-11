@@ -10,7 +10,6 @@ const Cart = () => (
         alt="cart"
         className="cart-img"
       />
-      <h1 className="cart-heading">Cart</h1>
     </div>
   </div>
 )

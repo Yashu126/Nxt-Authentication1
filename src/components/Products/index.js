@@ -11,7 +11,6 @@ const Products = () => (
         alt="products"
         className="cart-img"
       />
-      <h1 className="cart-heading">Products</h1>
     </div>
   </div>
 )
